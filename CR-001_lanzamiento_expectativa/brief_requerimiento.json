@@ -1,0 +1,13 @@
+{
+  "requerimiento_id": "CR-001",
+  "nombre": "lanzamiento_expectativa",
+  "canal": "Instagram Feed (1080x1350 px, Aspect Ratio 4:5)",
+  "objetivo": "Generar expectativa masiva y curiosidad sobre el lanzamiento de NexPlay sin revelar explícitamente el hardware del producto (PC consolizada), enfocándose en la emoción, la potencia retro/moderna y la libertad de jugar sin fricción.",
+  "target": "Jóvenes (18-25) y Adultos (26-45), fanáticos de los videojuegos y gamers nostalgicos frustrados con las limitaciones de las consolas tradicionales.",
+  "entregables": [
+    "opcion_a_corporativa_minimalista.png",
+    "opcion_b_disruptiva_emocional.png",
+    "opcion_a_vectorial.svg",
+    "opcion_b_vectorial.svg"
+  ]
+}
