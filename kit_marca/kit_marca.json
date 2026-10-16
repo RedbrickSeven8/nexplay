@@ -1,17 +1,12 @@
 {
   "nombre": "NexPlay",
-  "slogan": "Tu portal de juego sin fricción",
+  "slogan": "Tu PC, tu consola. Sin límites.",
   "colores": {
-    "cyan_electric": "#00E5FF",
-    "cyan_bright": "#00F0FF",
-    "dark_bg": "#0B0E14",
-    "card_bg": "#121722",
-    "white_pure": "#FFFFFF",
-    "text_gray": "#94A3B8"
+    "accent_cyan": "#00EDFD",
+    "bg_dark": "#050505",
+    "card_dark": "#0F1218",
+    "text_light": "#FFFFFF",
+    "text_gray": "#A0A0A0"
   },
-  "tipografias": {
-    "primaria": "Montserrat",
-    "secundaria": "Inter"
-  },
-  "sitio_web": "www.nexplaycol.com"
+  "sitio_web": "www.nexplaycol.online"
 }

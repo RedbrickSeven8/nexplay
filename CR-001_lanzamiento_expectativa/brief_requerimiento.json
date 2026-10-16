@@ -1,13 +1,7 @@
 {
   "requerimiento_id": "CR-001",
-  "nombre": "lanzamiento_expectativa",
-  "canal": "Instagram Feed (1080x1350 px, Aspect Ratio 4:5)",
-  "objetivo": "Generar expectativa masiva y curiosidad sobre el lanzamiento de NexPlay sin revelar explícitamente el hardware del producto (PC consolizada), enfocándose en la emoción, la potencia retro/moderna y la libertad de jugar sin fricción.",
-  "target": "Jóvenes (18-25) y Adultos (26-45), fanáticos de los videojuegos y gamers nostalgicos frustrados con las limitaciones de las consolas tradicionales.",
-  "entregables": [
-    "opcion_a_corporativa_minimalista.png",
-    "opcion_b_disruptiva_emocional.png",
-    "opcion_a_vectorial.svg",
-    "opcion_b_vectorial.svg"
-  ]
+  "nombre": "lanzamiento_expectativa_v2",
+  "canal": "Instagram Feed (1080x1350 px)",
+  "objetivo": "Rediseño completo de la campaña de expectativa para el lanzamiento de NexPlay alineado con el nuevo sitio web www.nexplaycol.online, integrando el logotipo oficial sobre negro, lenguaje estético cinemático ultra moderno y llamadas a la acción directas para reserva.",
+  "sitio_web": "www.nexplaycol.online"
 }

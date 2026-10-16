@@ -2,15 +2,15 @@
   "empresa": "NexPlay",
   "repositorio": "https://github.com/RedbrickSeven8/nexplay",
   "kit_marca": {
-    "colores": ["#00E5FF", "#0B0E14", "#121722", "#FFFFFF", "#94A3B8"],
+    "colores": ["#00EDFD", "#050505", "#0F1218", "#FFFFFF", "#A0A0A0"],
     "fuentes": ["Montserrat-Regular.ttf", "Inter-Regular.ttf", "Roboto-Regular.ttf"],
-    "sitio_web": "www.nexplaycol.com"
+    "sitio_web": "www.nexplaycol.online"
   },
   "requerimientos": [
     {
       "id": "CR-001",
-      "nombre": "lanzamiento_expectativa",
-      "canal": "Instagram (1080x1350)",
+      "nombre": "lanzamiento_expectativa_v2",
+      "canal": "Instagram Feed (1080x1350)",
       "entregables": [
         "opcion_a_corporativa_minimalista.png",
         "opcion_b_disruptiva_emocional.png",
